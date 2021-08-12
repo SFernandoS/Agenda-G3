@@ -1,5 +1,5 @@
 ---
-name: pull-request-template
+name: Templates do Pull Request
 about: Templates do Pull Request
 title: ''
 labels: ''
