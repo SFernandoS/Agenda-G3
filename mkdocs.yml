@@ -11,21 +11,16 @@ theme: readthedocs
 
 # Content Menu
 nav:
-  - Projeto: "../README.md"
+  - Projeto: "Em breve"
     
   - Product Backlog: 
-    - versão 1.0: "Em breve"
+    - versão 1.0: "project/product-backlog.md"
   - Design:
     - Protótipo de Baixa Fidelidade: "Em breve"
     - Protótio de Média Fidelidade: "Em breve"
   - Gerência: 
-    - Como contribuir: "../CONTRIBUTING.md"
+    - Como contribuir: "Em breve"
     - Plano Metodológico: "Em breve"
     - Plano de comunicação: "Em breve"
   - Pontos de Controle:
     - Ponto de Controle 1: "Em breve" 
- 
-
-
-  
-    
