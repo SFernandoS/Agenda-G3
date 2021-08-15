@@ -24,11 +24,11 @@ Uma épico representa uma coleção de funcionalidades da aplicação que estão
 
 Se trata de uma área específica de uma grande funcionalidade(épico)
 
-### 1.3 Story de Usuário
+### 1.3 História de Usuário
 
 Representa o que o Product Owner gostaria de ser capaz de fazer na aplicação através de um relato
 
-### 1.4 Priodade
+### 1.4 Prioridade
 
 Classificar o quão importante é aquela funcionalidade pra aplicação.
 
