@@ -19,7 +19,8 @@ nav:
     - Protótipo de Baixa Fidelidade: "Em breve"
     - Protótio de Média Fidelidade: "Em breve"
   - Gerência: 
-    - Como contribuir: "Em breve"
+    - Cronograma: "management/schedule.md"
+    - Revezamento Scrum: "management/scrum-relay.md"
     - Plano Metodológico: "Em breve"
     - Plano de comunicação: "Em breve"
   - Pontos de Controle:
