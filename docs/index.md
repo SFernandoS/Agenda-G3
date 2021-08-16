@@ -5,6 +5,7 @@
 - Eduardo Santos
 - Pedro Henrique
 - Raul
+- João Lucas Pinto
 
 # Descricao
 
