@@ -15,7 +15,7 @@ Autores: [Fernando](https://github.com/SFernandoS), [Hoton](https://github.com/D
 
 Data: 03/09/2021
 
-O protótipo pode ser acessado pelo [link](https://www.figma.com/proto/F6cho3Gspw12R4VLZxlGG1/Protótipo?node-id=285%3A342&scaling=min-zoom&page-id=1%3A2&starting-point-node-id=285%3A342)
+O protótipo pode ser acessado pelo [link](https://www.figma.com/proto/F6cho3Gspw12R4VLZxlGG1/Prot%C3%B3tipo?node-id=340%3A1584&scaling=min-zoom&page-id=3%3A4&starting-point-node-id=340%3A1584)
 
 Em geral o protótipo foi bem elogiado mas o professor (como uma espécie de PO e cliente) fez algumas sugestões durante a reunião:
 - Clicar diretamente na data do calendário para adicionar evento;
