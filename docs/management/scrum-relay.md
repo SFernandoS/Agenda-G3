@@ -19,7 +19,7 @@ revezados. O revezamento acontecerá de Sprint em Sprint.
 | Sprint 3 | Eduardo Santos | Pedro Henrique | Demais membros    |
 | Sprint 4 | Joao Lucas | Eduardo Santos | Demais membros    |
 | Sprint 5 | Pedro Henrique | Joao Lucas| Demais membros    |
-| Sprint 6 | Raul | [Fernando Vargas](https://github.com/SFernandoS) | Demais membros    |
-| Sprint 7 | Raquel Eucaria | Raul | Demais membros    |
-| Sprint 8 | Hoton Carmo | Raquel Eucaria | Demais membros    |
+| Sprint 6 | Fernado | Raquel | Demais membros    |
+| Sprint 7 | Eduardo | João | Demais membros    |
+| Sprint 8 | Pedro | Hoton | Demais membros    |
 
