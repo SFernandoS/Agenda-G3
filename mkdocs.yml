@@ -14,7 +14,16 @@ nav:
   - Product Backlog: 
     - versão 1.0: "project/product-backlog.md"
   - Design:
-    - Protótipo de Baixa Fidelidade: "Em breve"
+    - Protótipo de Baixa Fidelidade: "low-prototype.md"
+    - Protótipo de Media Fidelidade: "mid-prototype.md"
   - Gerência: 
     - Cronograma: "management/schedule.md"
     - Revezamento Scrum: "management/scrum-relay.md"
+  - Sprints:
+    - Sprint 0: "management/sprints/sprint-0.md"
+    - Sprint 1: "management/sprints/sprint-1.md"
+    - Sprint 2: "management/sprints/sprint-2.md"
+    - Sprint 3: "management/sprints/sprint-3.md"
+    - Sprint 4: "management/sprints/sprint-4.md"
+    - Sprint 5: "management/sprints/sprint-5.md"
+      
