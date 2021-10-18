@@ -4,8 +4,8 @@
 
 Data       | Autor                                                                                          | Modificações                                                                           | Versão |
 | ---------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------ |
-| 13/10/2021 |   [Raquel Eucaria](https://github.com/raqueleucaria)      | Adição do documento de identidade visual inicial                                       | 1.0    |
-|  |  | Atualização da paleta de cores   | |
+| 13/10/2021 |   [Raquel Eucaria](https://github.com/raqueleucaria)      | Adição do documento de identidade visual inicial  |  1.0|
+| 18/10/2021 |  [Raquel Eucaria](https://github.com/raqueleucaria)     | Atualização da paleta de cores   |  2.0|
 |  | | Atualização da logo                                                                    |   |
 |  |  | Revisão do documento de identidade visual                                              |   |
 ## Parâmetros de design da aplicação:
@@ -29,7 +29,8 @@ Data       | Autor                                                              
 ![image](https://user-images.githubusercontent.com/81540491/137231095-7e707a05-4efd-4ce5-921b-787377a13229.png)
 
 ## Paleta
-- [ ] Adicionar a paleta de cores
+![paleta](https://user-images.githubusercontent.com/81540491/137728282-85260604-63ab-4ce8-b78d-5648a9f9dc5a.png)
+
 
 ## Tipografia
 
