@@ -4,21 +4,18 @@
 
 |        Duração da sprint        |  
 | :-----------------------------: | 
-| **06/10/2021** a **13/10/2021** |
+| **06/10/2021** a **21/10/2021** |
 
 ## Tarefas Realizadas
 
 | Tarefa | Concluída? |
 | ------ | :--------: |
 | US - Tela de tarefas | :heavy_check_mark:  |
-| Formulários | :x: |
-
+| Formulários | :heavy_check_mark: |
+| Melhorias e design | :heavy_check_mark: |
 
 
 ## Pontos Positivos:
-- Conseguindo progredir 
+- Conseguindo progredir com mais simplicidade
   
 
-## Pontos de melhoria:
-- Participação
-- Pesquisa
